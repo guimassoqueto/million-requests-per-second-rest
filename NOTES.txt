@@ -1,0 +1,9 @@
+npm global autocannon
+npm global pm2
+linux mpstat
+
+
+POSTGRES:
+SHOW max_connections
+
+SELECT pg_size_preyty(pg_total_relation_size('codes'))
